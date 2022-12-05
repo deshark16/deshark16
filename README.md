@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdulla.
-- 👀 I’m interested in HTML, CSS, JavaScript.
+- 👀 I’m interested in Front-End and Game-Dev.
 - 🌱 I’m currently learning Vue.js and React.js
 
 <!---
