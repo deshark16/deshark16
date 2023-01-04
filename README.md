@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdulla Abdimuratov. I am 18 years old.
+7- 👋 Hi, I’m Abdulla Abdimuratov. I am 17 years old.
 - 🌱 I have trained on platforms such as Udacity (certified) etc.
 - 👀 I’m interested in Front-End and Game-Dev.
 - 🌱 I’m currently learning Vue.js and React.js
